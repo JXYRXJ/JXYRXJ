@@ -1,9 +1,9 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Jayraj;AI+Engineer+%7C+Full+Stack+Developer;Graph+ML+%7C+Systems+Builder;Building+Intelligent+Systems+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Jayraj;AI+Engineer+%7C+Edge+AI+Developer;Computer+Vision+%7C+Systems+Builder;Building+Scalable+Intelligent+Systems+🚀" />
 </p>
 
-<h3 align="center">⚡ Designing Intelligent Systems That Scale</h3>
+<h3 align="center">⚡ Designing AI Systems That Learn, Scale & Deploy</h3>
 
 ---
 
@@ -12,114 +12,140 @@
 <img src="https://img.shields.io/github/followers/JXYRXJ?style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/JXYRXJ?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=JXYRXJ&style=for-the-badge&color=brightgreen"/>
-<img src="https://img.shields.io/badge/Focus-AI%20Engineering-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Specialty-Systems%20Architecture-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Edge%20AI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Specialty-Intelligent%20Systems-purple?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🧠 About Me
-- 🎓 Computer Engineering Student  
-- 🤖 Passionate about **AI + Scalable Systems**
-- 🔬 Focused on **Explainable AI • Graph ML • Real-Time Platforms**
-- 🛠 Builder of production-grade ML + Full Stack systems  
-- 🎯 Goal → **AI Infrastructure + Cloud Systems Expert**
+
+- 🎓 Computer Engineering Student at PICT, Pune
+- 🤖 Passionate about AI systems, edge inference, and scalable architectures
+- 🔬 Focused on Computer Vision, Graph ML, Explainable AI & Distributed Systems
+- 🛠 Building production-oriented ML + backend systems
+- 🎯 Goal → AI Infrastructure & Edge Systems Engineer
 
 ---
 
-# 🧩 Flagship Systems
+# 🚀 Featured Projects
 
-### 📊 Credit Risk Modeling with XAI
-- Ensemble ML with SHAP explainability
-- Cross-validated + tuned models
-- Feature attribution + interpretability dashboards
-- Production-ready pipeline
-
----
-
-### 🌐 ArkNet
-Advanced intelligent system platform
-- Modular AI architecture
-- Real-time analytics design
-- Scalable backend infrastructure
-- Intelligent automation pipelines
+## 🔬 Semiconductor Defect Classification
+- MobileNetV2 + ONNX Runtime pipeline
+- FP32 export + INT8-ready optimization
+- Deterministic edge inference system
+- High-recall semiconductor defect detection
 
 ---
 
-### 🧠 Graph Neural Network Research
-- Hypergraph pattern analysis  
-- Canonical structure detection  
-- High-performance mining algorithms  
-- Optimized computation pipelines  
+## 📊 Credit Risk Modeling with XAI
+- Ensemble ML with SHAP/LIME explainability
+- 91.24% Accuracy • 95.17% ROC-AUC
+- Production-grade validation pipeline
+- Threshold optimization + interpretability
 
 ---
 
-# ⚙️ Tech Stack
-
-### Languages
-```
-Python ██████████████ 95%
-C++    ████████████░ 85%
-JS/TS  ███████████░░ 80%
-SQL    ██████████░░░ 75%
-```
-
-### AI / ML
-```
-PyTorch        ██████████████ 95%
-GNN Research   █████████████░ 90%
-NLP            ███████████░░░ 80%
-Computer Vision███████████░░░ 82%
-```
-
-### Systems
-```
-Backend APIs    █████████████ 90%
-Distributed Sys ███████████░░ 82%
-Optimization    █████████████ 88%
-Realtime Data   ████████████░ 85%
-```
+## 🌐 NAMASTE-ICD11 Semantic Mapping
+- LaBSE multilingual embeddings
+- FAISS ANN + Qdrant vector database
+- 5000× faster semantic retrieval
+- Cloud-ready NLP infrastructure
 
 ---
 
-# 📊 GitHub Analytics (Auto Theme)
+## 🐾 ArkNet — Multi-Modal Wildlife AI
+- Wildlife + threat detection pipeline
+- Real-time AI inference system
+- RAG-based analytics architecture
+- Edge-ready monitoring platform
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JXYRXJ&show_icons=true&hide_border=true&theme=default#gh-light-mode-only"/>
-<img src="https://github-readme-stats.vercel.app/api?username=JXYRXJ&show_icons=true&hide_border=true&theme=tokyonight#gh-dark-mode-only"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JXYRXJ&hide_border=true&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JXYRXJ&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-# 🧠 Engineering Strengths
-✔ Intelligent system design  
-✔ Model interpretability pipelines  
-✔ Algorithm optimization  
-✔ Distributed processing  
-✔ Real-time inference systems  
+# ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,js,ts,nodejs,flask,fastapi,docker,linux,git,github,mongodb,mysql"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JXYRXJ&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JXYRXJ&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=JXYRXJ&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧩 Engineering Interests
+
+✔ Edge AI & Embedded Inference  
+✔ Computer Vision Systems  
+✔ Graph Neural Networks  
+✔ Distributed ML Infrastructure  
+✔ Explainable AI  
+✔ Real-Time AI Pipelines  
 
 ---
 
 # 🎯 Current Focus
-- Graph Neural Networks research  
-- AI inference optimization  
-- Distributed ML pipelines  
-- Cloud-native system architecture  
+
+- ONNX inference optimization
+- Edge deployment pipelines
+- Graph ML research
+- Distributed AI systems
+- AI infrastructure engineering
 
 ---
 
-# 🤝 Collaboration
-Open to building:
-- AI platforms  
-- ML infrastructure  
-- Research systems  
-- Scalable backend engines  
+# 🤝 Open To Collaborate On
+
+- AI Platforms
+- ML Infrastructure
+- Research Systems
+- Edge AI Applications
+- Scalable Backend Systems
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/JXYRXJ">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jayraj-desai-769423281">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:jayrajwork007@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
@@ -128,5 +154,5 @@ Open to building:
 </p>
 
 <p align="center">
-<b>✨ Build systems that think, learn, and scale.</b>
+<b>⚡ Build systems that think, scale, and deploy efficiently.</b>
 </p>
